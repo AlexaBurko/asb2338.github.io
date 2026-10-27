@@ -7,10 +7,12 @@ navbar:
       href: about.html
     - text: "plots"
       href: plots.html
+    - text: "Plotly"
+      href: plotly.html
     - icon: fa-envelope fa-lg
       href: mailto:<you@youremail.com>
     - icon: fa-github fa-lg
       href: http://github.com/AlexaBurko/
 output:
   html_document:
-    theme: cerulean
+    theme: flatly
